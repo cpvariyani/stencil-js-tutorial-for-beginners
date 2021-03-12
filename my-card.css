@@ -1,0 +1,41 @@
+.my-card-wrapper{
+    width:600px;
+    margin:50px;
+    padding:20px;
+    border-radius: 10%;
+    border: 3px solid #ccc;
+    display: inline-block;
+    font-family: "system-ui";
+}
+.card-custom {
+    width: 250px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10%;
+    border: 2px solid rgb(102, 15, 15);
+  }
+
+  button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: #008cba;
+    margin-right: 30px;
+  }
+  .btn-react {
+    background-color: #f44336;
+  }
+  
+  .my-input-textbox{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
